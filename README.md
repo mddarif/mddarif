@@ -1,3 +1,12 @@
+<table>
+<tr>
+<td width="45%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4f6c3d6-7d8e-4d1f-8c55-7f8c3c6f36c5.gif" width="100%" />
+
+</td>
+
+<td width="55%">
 <h1 align="center">Hi 👋, I'm Mohammed Arif</h1>
 <h3 align="center">Java Full Stack Developer | Bangalore, India 🇮🇳</h3>
 
