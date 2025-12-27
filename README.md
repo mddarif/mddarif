@@ -36,15 +36,13 @@ Building scalable web applications using <b>HTML, CSS, JavaScript, Java & Spring
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mddarif&show_icons=true" />
-</p>
+- 🔢 Public Repositories: **50**
+- 🌱 Active learner & contributor
+- 💻 Focused on Java Full Stack Development
+- 📈 Regularly improving skills with hands-on projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddarif&layout=compact" />
-</p>
 
 ---
 
