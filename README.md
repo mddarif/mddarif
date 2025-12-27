@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammed Arif</h1>
+<h3 align="center">Java Full Stack Developer from Bangalore, India 🇮🇳</h3>
 
-<!--
-**mddarif/mddarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduated in Computer Science from Bangalore  
+- 💻 Java Full Stack Developer  
+- 🔭 Working on Web & Backend Development Projects  
+- 🌱 Learning Spring Boot, REST APIs & Cloud Basics  
+- 📫 Email: mdarif1843@gmail.com  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Python, JavaScript  
+- **Backend:** Spring Boot, REST APIs  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, Linux  
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mddarif&show_icons=true&theme=tokyonight)
