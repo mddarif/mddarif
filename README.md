@@ -1,78 +1,50 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284068-b4f6c3d6-7d8e-4d1f-8c55-7f8c3c6f36c5.gif" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammed Arif</h1>
 <h3 align="center">Java Full Stack Developer | Bangalore, India 🇮🇳</h3>
 
 <p align="center">
-Passionate about building scalable web applications and learning modern backend technologies.
+Building scalable web applications using <b>HTML, CSS, JavaScript, Java & Spring Boot</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Graduated in Computer Science** from Bangalore  
+- 🎓 Graduated in **Computer Science** from Bangalore  
 - 💼 **Java Full Stack Developer**  
-- 🔭 Currently working on **Java & Web Development Projects**  
-- 🌱 Learning **Spring Boot, REST APIs, Cloud & DevOps Basics**  
-- 🎯 Career goal: Build reliable and scalable real-world applications  
-- 📫 Email: **mdarif1843@gmail.com**  
+- 🔭 Working on **Java & Web Development Projects**  
+- 🌱 Learning **Spring Boot, REST APIs, Cloud & DevOps**  
+- 🎯 Goal: Build scalable real-world applications  
+- 📫 Email: **mdarif1843@gmail.com**
 
 ---
 
-## 🤝 Connect with Me
+## 🧑‍💻 Tech I Use (Dark Friendly)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/your-link" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-<a href="https://twitter.com/your-link" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
-</a>
-<a href="https://github.com/mddarif" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
-
-### 🌐 Frontend
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
-
-### ⚙️ Backend & Database
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-### 🧰 Tools
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dark Mode)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mddarif&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddarif&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mddarif&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddarif&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=mddarif&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=mddarif&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -80,23 +52,21 @@ Passionate about building scalable web applications and learning modern backend 
 ## 📌 Featured Projects
 
 ### 🚚 Delivery Management System
-- Java Full Stack application  
-- Backend: **Spring Boot & REST APIs**  
-- Database: **MySQL**  
-- Role-based architecture  
+- Java Full Stack Application  
+- Spring Boot + REST APIs  
+- MySQL Database  
 
 ### 🧠 AI-Based Plant Disease Detection
-- Image processing & ML-based solution  
-- Real-time disease prediction  
-- Agriculture-focused project  
+- Image Processing & ML  
+- Real-time Prediction System  
 
 ---
 
-## 📈 What I’m Focusing On Now
-- Strengthening **Java & Spring Boot**
-- Building **real-world backend projects**
-- Learning **Cloud & DevOps fundamentals**
+## 📈 Currently Focusing On
+- Advanced **Java & Spring Boot**
+- Backend Architecture
+- Cloud & DevOps Basics
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
